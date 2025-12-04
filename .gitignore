@@ -1,4 +1,2 @@
 node_modules/
-.env
-google-creds.json
 package-lock.json
